@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Builds
+dist/
+build/
+.next/
+.expo/
+*.apk
+*.ipa
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
